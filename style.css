@@ -27,3 +27,19 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+.lang-btn {
+  text-align: center;
+  position: relative;
+  top: 15px;
+  margin: 10px;
+}
+
+.lang-select {
+  border: none;
+  border-radius: 25px;
+  background-color: rgb(87, 87, 87);
+  color: rgb(187, 223, 255);
+  padding: 5px;
+  appearance: menu;
+}
